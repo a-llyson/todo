@@ -1,2 +1,2 @@
 # ohwhale
-Fishing for whales in a well!
+Keep track of your tasks and level up your whale!
